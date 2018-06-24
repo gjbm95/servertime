@@ -1,6 +1,6 @@
 package com.Entidades;
 
-import com.Utils.RespuestaUtils;
+import com.Utils.Utils;
 
 import java.io.Serializable;
 import java.security.NoSuchAlgorithmException;
@@ -24,6 +24,6 @@ public class NodoRF extends Miembro implements Serializable {
 
 
     public NodoRF(String ip, int puerto) throws NoSuchAlgorithmException {
-           super(ip, puerto, RespuestaUtils.generarHash(ip));
+           super(ip, puerto, Utils.generarHash(ip));
     }
 }

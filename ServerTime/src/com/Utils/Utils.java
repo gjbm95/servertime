@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
 import java.sql.Time;
 import java.util.Calendar;
 
-public class RespuestaUtils {
+public class Utils {
 
     /**
      * Aplica el algoritmo de compendio SHA-1 sobre la entrada y retorna su representacion numerica

@@ -6,7 +6,7 @@
 package com.Entidades;
 
 import Red.Mensaje;
-import com.Utils.RespuestaUtils;
+import com.Utils.Utils;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -105,7 +105,7 @@ public class Estadistica {
     public static void agregandoregistro(Mensaje mensaje){
          if (mensaje.getData().equals("inicio")){
             registros.add(new Registro(mensaje.getOrigen().getHash().toString(),
-                    mensaje.getFuncion(),RespuestaUtils.obtenerTiempo(),Long.parseLong("0")));
+                    mensaje.getFuncion(),Utils.obtenerTiempo(),Long.parseLong("0")));
          }
          if (mensaje.getData().equals("final")){
              
@@ -114,7 +114,7 @@ public class Estadistica {
                           mensaje.getOrigen().getHash().toString())&&
                           registro.getFuncion().equals(mensaje.getFuncion())&&
                           (registro.getTiempo_final()==0)){
-                      registro.setTiempo_final(RespuestaUtils.obtenerTiempo());
+                      registro.setTiempo_final(Utils.obtenerTiempo());
                   
                   }
               }
@@ -141,7 +141,7 @@ public class Estadistica {
                 for (Registro registro : registros){
                   bw.newLine();
                   bw.write("Nodo: "+registro.getNodo()+" Funcion: "+registro.getFuncion()
-                          +" Duracion: "+(registro.getTiempo_final()-registro.getTiempo_inicial())+" \n");
+                          +" Duracion: "+(registro.getTiempo_final()-registro.getTiempo_inicial())+" milisegundos \n");
                   bw.newLine();
                 }
                 bw.close();
