@@ -4,6 +4,7 @@ import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.sql.Time;
 import java.util.Calendar;
 
 public class RespuestaUtils {
@@ -22,13 +23,7 @@ public class RespuestaUtils {
         return hash.mod(BigInteger.valueOf(20));
     }
     
-        public static int obtenerTiempo(){
-        Calendar calendario = Calendar.getInstance();
-        int hora, minutos, segundos,milisegundos;
-        hora =calendario.get(Calendar.HOUR_OF_DAY);
-        minutos = calendario.get(Calendar.MINUTE);
-        segundos = calendario.get(Calendar.SECOND);
-        milisegundos = calendario.get(Calendar.MILLISECOND);
-        return milisegundos;
+        public static Long obtenerTiempo(){
+        return System.currentTimeMillis();
     }
 }

@@ -7,7 +7,13 @@ package com.Entidades;
 
 import Red.Mensaje;
 import com.Utils.RespuestaUtils;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * Universidad Catolica Andres Bello
@@ -99,7 +105,7 @@ public class Estadistica {
     public static void agregandoregistro(Mensaje mensaje){
          if (mensaje.getData().equals("inicio")){
             registros.add(new Registro(mensaje.getOrigen().getHash().toString(),
-                    mensaje.getFuncion(),RespuestaUtils.obtenerTiempo(),0));
+                    mensaje.getFuncion(),RespuestaUtils.obtenerTiempo(),Long.parseLong("0")));
          }
          if (mensaje.getData().equals("final")){
              
@@ -113,6 +119,35 @@ public class Estadistica {
                   }
               }
          }
-      
+    }
+    
+    public static void generarInforme(){
+       ArchivoThread generar = new ArchivoThread();
+       new Thread(generar).start();     
+    }
+    
+    private static class ArchivoThread implements Runnable{
+        public void run() {
+            try {
+                String ruta = "Informe.txt";
+                File archivo = new File(ruta);
+                BufferedWriter bw;
+                bw = new BufferedWriter(new FileWriter(archivo));
+                bw.write("------------------------------------------------------\n");
+                bw.newLine();
+                bw.write("Resultados de los registros \n");
+                bw.newLine();
+                bw.write("------------------------------------------------------\n");
+                for (Registro registro : registros){
+                  bw.newLine();
+                  bw.write("Nodo: "+registro.getNodo()+" Funcion: "+registro.getFuncion()
+                          +" Duracion: "+(registro.getTiempo_final()-registro.getTiempo_inicial())+" \n");
+                  bw.newLine();
+                }
+                bw.close();
+            } catch (IOException ex) {
+                Logger.getLogger(Estadistica.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        } 
     }
 }
