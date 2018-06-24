@@ -36,7 +36,7 @@ public class Estadistica {
     private static int tablas_generadas; 
     private static int tiempo_tablas; 
     private static int descargas_exitosas; 
-    private static ArrayList<Registro> registros;
+    private static ArrayList<Registro> registros = new ArrayList<Registro>();
     
     public static void add_nodos(){
       nodos_estables++;
