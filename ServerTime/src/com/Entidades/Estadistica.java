@@ -106,6 +106,7 @@ public class Estadistica {
          if (mensaje.getData().equals("inicio")){
             registros.add(new Registro(mensaje.getOrigen().getHash().toString(),
                     mensaje.getFuncion(),Utils.obtenerTiempo(),Long.parseLong("0")));
+                         System.out.println("Recibido: "+ mensaje.getFuncion()+" marca: "+mensaje.getData()+" tiempo: "+Utils.obtenerTiempo());
          }
          if (mensaje.getData().equals("final")){
              
@@ -118,6 +119,7 @@ public class Estadistica {
                   
                   }
               }
+              System.out.println("Recibido: "+ mensaje.getFuncion()+" marca: "+mensaje.getData()+" tiempo: "+Utils.obtenerTiempo());
          }
     }
     
