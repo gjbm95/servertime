@@ -3,3 +3,12 @@
 Resultados de los registros 
 
 ------------------------------------------------------
+
+Nodo: 16 Funcion: addnode Duracion: 155 milisegundos 
+
+
+Nodo: 16 Funcion: generarFinger Duracion: -1529933695968 milisegundos 
+
+
+Nodo: 16 Funcion: search Duracion: -1529933749499 milisegundos 
+

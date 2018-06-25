@@ -5,6 +5,7 @@
  */
 package com.ControladoresRed;
 
+import com.Entidades.Estadistica;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.util.logging.Level;
@@ -27,7 +28,7 @@ public class Ejecucion  extends Thread{
     public void run (){
         try {
             
-            
+            Estadistica.agregandoregistro(mensaje);
             
             oos.writeObject(null);
         } catch (IOException ex) {

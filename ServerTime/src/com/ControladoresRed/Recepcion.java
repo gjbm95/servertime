@@ -24,9 +24,9 @@ public class Recepcion extends Thread {
         try {
                 ServerSocket recepcion = null;
                 recepcion = new ServerSocket(1500);
-              
+                System.out.println("Servidor de tiempo habilitado y en espera...");
                 while (true) {
-                    System.out.println("Servidor de tiempo habilitado y en espera...");
+                    
                     Socket recibo = recepcion.accept();
                     ObjectInputStream ois = new ObjectInputStream(recibo.getInputStream());
                     ObjectOutputStream oos = new ObjectOutputStream(recibo.getOutputStream());
