@@ -5,7 +5,7 @@
  */
 package servertime;
 
-import Red.Recepcion;
+import com.ControladoresRed.Recepcion;
 import com.Entidades.Estadistica;
 import com.Utils.Utils;
 import java.util.Scanner;

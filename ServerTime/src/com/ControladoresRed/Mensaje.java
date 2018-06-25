@@ -1,6 +1,8 @@
-package Red;
+package com.ControladoresRed;
+
 
 import com.Entidades.Miembro;
+
 import java.io.Serializable;
 
 /**

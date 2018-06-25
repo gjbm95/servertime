@@ -5,7 +5,7 @@
  */
 package com.Entidades;
 
-import Red.Mensaje;
+import com.ControladoresRed.Mensaje;
 import com.Utils.Utils;
 import java.io.BufferedWriter;
 import java.io.File;
