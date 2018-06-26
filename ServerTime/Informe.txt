@@ -4,8 +4,56 @@ Resultados de los registros
 
 ------------------------------------------------------
 
-Nodo: 13 Funcion: addnode Duracion: 210 milisegundos 
+Nodo: 13 Funcion: addnode Duracion: 221 milisegundos 
 
 
-Nodo: 13 Funcion: generarFinger Duracion: 33 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 25 milisegundos 
+
+
+Nodo: 13 Funcion: search Duracion: 23 milisegundos 
+
+
+Nodo: 9 Funcion: addnode Duracion: 23 milisegundos 
+
+
+Nodo: 9 Funcion: generarFinger Duracion: 28 milisegundos 
+
+
+Nodo: 13 Funcion: generarFinger Duracion: 47 milisegundos 
+
+
+Nodo: 6 Funcion: addnode Duracion: 21 milisegundos 
+
+
+Nodo: 6 Funcion: generarFinger Duracion: 76 milisegundos 
+
+
+Nodo: 9 Funcion: generarFinger Duracion: 32 milisegundos 
+
+
+Nodo: 13 Funcion: generarFinger Duracion: 82 milisegundos 
+
+
+Nodo: 16 Funcion: addnode Duracion: 26 milisegundos 
+
+
+Nodo: 6 Funcion: generarFinger Duracion: 49 milisegundos 
+
+
+Nodo: 9 Funcion: generarFinger Duracion: 59 milisegundos 
+
+
+Nodo: 13 Funcion: generarFinger Duracion: 235 milisegundos 
+
+
+Nodo: 16 Funcion: generarFinger Duracion: 108 milisegundos 
+
+
+Nodo: 6 Funcion: search Duracion: 180 milisegundos 
+
+
+Nodo: 9 Funcion: search Duracion: 40 milisegundos 
+
+
+Nodo: 13 Funcion: search Duracion: 72 milisegundos 
 

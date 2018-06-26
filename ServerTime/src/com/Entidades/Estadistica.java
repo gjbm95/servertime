@@ -147,6 +147,8 @@ public class Estadistica {
                   bw.newLine();
                 }
                 bw.close();
+                
+                System.out.println("Se ha generado el archivo con exito!");
             } catch (IOException ex) {
                 Logger.getLogger(Estadistica.class.getName()).log(Level.SEVERE, null, ex);
             }
