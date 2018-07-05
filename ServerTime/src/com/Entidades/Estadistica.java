@@ -36,6 +36,9 @@ public class Estadistica {
     private static int tablas_generadas; 
     private static int tiempo_tablas; 
     private static int descargas_exitosas; 
+    private static long total_addnode=0;
+    private static long total_finger=0; 
+    private static long total_busquedas=0;
     private static ArrayList<Registro> registros = new ArrayList<Registro>();
     
     public static void add_nodos(){
@@ -123,6 +126,24 @@ public class Estadistica {
          }
     }
     
+    public static void realizarOperaciones(){
+       int total_nodos =0; 
+       for (Registro registro : registros){
+          if (registro.getFuncion().equals("addnode")){
+            total_addnode = total_addnode + (registro.getTiempo_final()-registro.getTiempo_inicial());
+            total_nodos++;
+            add_nodos();
+          }  
+       }
+       int i=registros.size()-1;
+       while (i>=((registros.size()-1)-total_nodos)){
+        if (registros.get(i).getFuncion().equals("generarFinger")){
+            total_finger = total_finger + (registros.get(i).getTiempo_final()-registros.get(i).getTiempo_inicial());
+        }  
+        i--;
+       }      
+    }
+    
     public static void generarInforme(){
        ArchivoThread generar = new ArchivoThread();
        new Thread(generar).start();     
@@ -146,6 +167,21 @@ public class Estadistica {
                           +" Duracion: "+(registro.getTiempo_final()-registro.getTiempo_inicial())+" milisegundos \n");
                   bw.newLine();
                 }
+                realizarOperaciones();
+                bw.write("------------------------------------------------------\n");
+                bw.newLine();
+                bw.write("Resultados Finales \n");
+                bw.newLine();
+                bw.write("------------------------------------------------------\n");
+                bw.newLine();
+                bw.write("Numero de nodos: "+nodos_estables+" \n");
+                bw.newLine();
+                bw.write("Tiempo en agregar nodos: "+ total_addnode+" milisegundos \n");
+                bw.newLine();
+                bw.write("Tiempo en generar fingers: "+ total_finger+" milisegundos \n");
+                bw.newLine();
+                bw.write("Tiempo en buscar: "+ total_addnode+" milisegundos \n");
+                bw.newLine();
                 bw.close();
                 
                 System.out.println("Se ha generado el archivo con exito!");

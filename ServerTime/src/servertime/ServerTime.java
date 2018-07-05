@@ -39,6 +39,9 @@ public class ServerTime {
             if (line.equals("generate")){
                Estadistica.generarInforme();
             }
+            if (line.equals("operate")){
+               Estadistica.realizarOperaciones();
+            }
             if (line.equals("finish")){
                System.exit(0);
             }
