@@ -135,13 +135,15 @@ public class Estadistica {
             add_nodos();
           }  
        }
+       
        int i=registros.size()-1;
        while (i>=((registros.size()-1)-total_nodos)){
         if (registros.get(i).getFuncion().equals("generarFinger")){
             total_finger = total_finger + (registros.get(i).getTiempo_final()-registros.get(i).getTiempo_inicial());
         }  
         i--;
-       }      
+       } 
+       
     }
     
     public static void generarInforme(){
@@ -179,8 +181,6 @@ public class Estadistica {
                 bw.write("Tiempo en agregar nodos: "+ total_addnode+" milisegundos \n");
                 bw.newLine();
                 bw.write("Tiempo en generar fingers: "+ total_finger+" milisegundos \n");
-                bw.newLine();
-                bw.write("Tiempo en buscar: "+ total_addnode+" milisegundos \n");
                 bw.newLine();
                 bw.close();
                 
