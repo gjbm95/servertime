@@ -39,6 +39,7 @@ public class Estadistica {
     private static long total_addnode=0;
     private static long total_finger=0; 
     private static long total_busquedas=0;
+    private static long total_combinacion=0;
     private static ArrayList<Registro> registros = new ArrayList<Registro>();
     
     public static void add_nodos(){
@@ -106,10 +107,14 @@ public class Estadistica {
     }
     
     public static void agregandoregistro(Mensaje mensaje){
+        Long tiempo = Utils.obtenerTiempo();
          if (mensaje.getData().equals("inicio")){
+            
             registros.add(new Registro(mensaje.getOrigen().getHash().toString(),
-                    mensaje.getFuncion(),Utils.obtenerTiempo(),Long.parseLong("0")));
-                         System.out.println("Recibido: "+ mensaje.getFuncion()+" marca: "+mensaje.getData()+" tiempo: "+Utils.obtenerTiempo());
+            mensaje.getFuncion(),tiempo,Long.parseLong("0")));
+            System.out.println("Recibido: "+ mensaje.getFuncion()+" marca: "+mensaje.getData()+" tiempo: "+tiempo);
+            if (mensaje.getFuncion().equals("addnode"))
+            registros.add(new Registro(mensaje.getOrigen().getHash().toString(),"combinacion",tiempo,Long.parseLong("0")));
          }
          if (mensaje.getData().equals("final")){
              
@@ -118,8 +123,15 @@ public class Estadistica {
                           mensaje.getOrigen().getHash().toString())&&
                           registro.getFuncion().equals(mensaje.getFuncion())&&
                           (registro.getTiempo_final()==0)){
-                      registro.setTiempo_final(Utils.obtenerTiempo());
-                  
+                      registro.setTiempo_final(tiempo);
+                      for (Registro registro2 : registros){
+                           if (registro2.getNodo().equals(
+                          mensaje.getOrigen().getHash().toString())&&
+                          registro2.getFuncion().equals("combinacion")&&
+                          (registro2.getTiempo_final()==0)&&(mensaje.getFuncion().equals("generarFinger")))
+                             registro2.setTiempo_final(tiempo);
+                      }
+                          
                   }
               }
               System.out.println("Recibido: "+ mensaje.getFuncion()+" marca: "+mensaje.getData()+" tiempo: "+Utils.obtenerTiempo());
@@ -134,6 +146,9 @@ public class Estadistica {
             total_nodos++;
             add_nodos();
           }  
+          if (registro.getFuncion().equals("combinacion")){
+            total_combinacion = total_combinacion + (registro.getTiempo_final()-registro.getTiempo_inicial());
+          }  
        }
        
        int i=registros.size()-1;
@@ -143,6 +158,8 @@ public class Estadistica {
         }  
         i--;
        } 
+       
+       
        
     }
     
@@ -178,9 +195,11 @@ public class Estadistica {
                 bw.newLine();
                 bw.write("Numero de nodos: "+nodos_estables+" \n");
                 bw.newLine();
-                bw.write("Tiempo en agregar nodos: "+ total_addnode+" milisegundos \n");
+                bw.write("Tiempo en agregar nodos: "+total_addnode+" milisegundos \n");
                 bw.newLine();
-                bw.write("Tiempo en generar fingers: "+ total_finger+" milisegundos \n");
+                bw.write("Tiempo en generar fingers: "+total_finger+" milisegundos \n");
+                bw.newLine();
+                bw.write("Tiempo en agregar nodos + generar fingers: "+total_combinacion+" milisegundos \n");
                 bw.newLine();
                 bw.close();
                 

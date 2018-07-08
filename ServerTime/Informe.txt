@@ -4,739 +4,697 @@ Resultados de los registros
 
 ------------------------------------------------------
 
-Nodo: 29 Funcion: addnode Duracion: 51 milisegundos 
+Nodo: 13 Funcion: addnode Duracion: 47215 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 64 milisegundos 
+Nodo: 13 Funcion: combinacion Duracion: 48216 milisegundos 
 
 
-Nodo: 19 Funcion: addnode Duracion: 29 milisegundos 
+Nodo: 9 Funcion: addnode Duracion: 32516 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 22 milisegundos 
+Nodo: 9 Funcion: combinacion Duracion: 32755 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 18 milisegundos 
+Nodo: 18 Funcion: addnode Duracion: 733 milisegundos 
 
 
-Nodo: 28 Funcion: addnode Duracion: 12 milisegundos 
+Nodo: 18 Funcion: combinacion Duracion: 1966 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 218 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 197 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 65 milisegundos 
 
 
-Nodo: 1 Funcion: addnode Duracion: 11 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 569 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 458 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 299 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 179 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 521 milisegundos 
 
 
-Nodo: 46 Funcion: addnode Duracion: 17 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 465 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 73 milisegundos 
+Nodo: 10 Funcion: addnode Duracion: 29 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 20 milisegundos 
+Nodo: 10 Funcion: combinacion Duracion: 179 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 62 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 38 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 77 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 41 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 48 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 57 milisegundos 
 
 
-Nodo: 16 Funcion: addnode Duracion: 17 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 130 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 6 Funcion: addnode Duracion: 26 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 6 Funcion: combinacion Duracion: 78 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 29 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 6 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 126 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 107 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 178 milisegundos 
 
 
-Nodo: 33 Funcion: addnode Duracion: 10 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 197 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 16 Funcion: addnode Duracion: 20 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 16 Funcion: combinacion Duracion: 1533 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 78 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 105 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 462 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 154 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 164 milisegundos 
 
 
-Nodo: 1 Funcion: addnode Duracion: 10 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 198 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 3 Funcion: addnode Duracion: 35 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 3 Funcion: combinacion Duracion: 88 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 36 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 112 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 96 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 52 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 109 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 178 milisegundos 
 
 
-Nodo: 34 Funcion: addnode Duracion: 18 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 118 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 31 milisegundos 
+Nodo: 1 Funcion: addnode Duracion: 34 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 74 milisegundos 
+Nodo: 1 Funcion: combinacion Duracion: 130 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 46 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 75 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 24 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 152 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 20 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 103 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 304 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 17 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 200 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 20 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 197 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 249 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 191 milisegundos 
 
 
-Nodo: 36 Funcion: addnode Duracion: 23 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 107 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 4 Funcion: addnode Duracion: 41 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 16 milisegundos 
+Nodo: 4 Funcion: combinacion Duracion: 884 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 17 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 56 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 34 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 296 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 183 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 187 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 21 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 209 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 27 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 410 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 31 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 97 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 15 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 288 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 215 milisegundos 
 
 
-Nodo: 36 Funcion: search Duracion: 42 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 436 milisegundos 
 
 
-Nodo: 36 Funcion: search Duracion: 44 milisegundos 
+Nodo: 6 Funcion: addnode Duracion: 118 milisegundos 
 
 
-Nodo: 36 Funcion: search Duracion: 41 milisegundos 
+Nodo: 6 Funcion: combinacion Duracion: 1091 milisegundos 
 
 
-Nodo: 36 Funcion: search Duracion: 60 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 83 milisegundos 
 
 
-Nodo: 36 Funcion: search Duracion: 37 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 63 milisegundos 
 
 
-Nodo: 12 Funcion: addnode Duracion: 8 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 100 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 446 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 68 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 230 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 166 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 106 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 73 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 114 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 2 Funcion: addnode Duracion: 30 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 2 Funcion: combinacion Duracion: 287 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 24 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 79 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 58 milisegundos 
 
 
-Nodo: 11 Funcion: addnode Duracion: 13 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 32 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 138 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 108 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 149 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 70 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 98 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 92 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 160 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 98 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 1 Funcion: addnode Duracion: 23 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 1 Funcion: combinacion Duracion: 86 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 43 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 58 milisegundos 
 
 
-Nodo: 30 Funcion: addnode Duracion: 12 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 49 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 104 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 130 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 78 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 239 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 721 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 461 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 258 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 214 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 305 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 0 Funcion: addnode Duracion: 9831 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 0 Funcion: combinacion Duracion: 9891 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 17 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 41 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 24 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 195 milisegundos 
 
 
-Nodo: 17 Funcion: addnode Duracion: 20 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 41 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 16 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 318 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 18 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 125 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 17 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 165 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 133 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 433 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 32 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 5807 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 22 milisegundos 
+Nodo: 17 Funcion: addnode Duracion: 283 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 41 milisegundos 
+Nodo: 17 Funcion: combinacion Duracion: 6738 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 16 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 254 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 17 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 178 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 43 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 590 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 225 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 325 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 21 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 184 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 22 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 203 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 29 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 757 milisegundos 
 
 
-Nodo: 22 Funcion: addnode Duracion: 9 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 307 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 314 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 186 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 399 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 269 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 17 Funcion: generarFinger Duracion: 408 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 548 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 12 Funcion: addnode Duracion: 157 milisegundos 
 
 
-Nodo: 22 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 12 Funcion: combinacion Duracion: 7195 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 6 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 237 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 17 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 381 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 21 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 186 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 222 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 140 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 168 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 26 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 220 milisegundos 
 
 
-Nodo: 22 Funcion: search Duracion: 110 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 328 milisegundos 
 
 
-Nodo: 22 Funcion: search Duracion: 70 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 294 milisegundos 
 
 
-Nodo: 22 Funcion: search Duracion: 78 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 905 milisegundos 
 
 
-Nodo: 22 Funcion: search Duracion: 68 milisegundos 
+Nodo: 12 Funcion: generarFinger Duracion: 157 milisegundos 
 
 
-Nodo: 22 Funcion: search Duracion: 40 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 115 milisegundos 
 
 
-Nodo: 49 Funcion: addnode Duracion: 23 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 445 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 18 milisegundos 
+Nodo: 17 Funcion: generarFinger Duracion: 626 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 18 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 138 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 76 milisegundos 
+Nodo: 9 Funcion: addnode Duracion: 25 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 25 milisegundos 
+Nodo: 9 Funcion: combinacion Duracion: 3713 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 64 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 59 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 34 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 88 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 231 milisegundos 
 
 
-Nodo: 22 Funcion: generarFinger Duracion: 47 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 215 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 16 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 191 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 146 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 505 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 125 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 250 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 45 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 540 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 64 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 370 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 161 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 19 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 208 milisegundos 
 
 
-Nodo: 49 Funcion: generarFinger Duracion: 39 milisegundos 
+Nodo: 12 Funcion: generarFinger Duracion: 57 milisegundos 
 
 
-Nodo: 47 Funcion: addnode Duracion: 27 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 436 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 27 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 389 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 17 Funcion: generarFinger Duracion: 294 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 13 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 422 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 9 Funcion: addnode Duracion: 24 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 9 Funcion: combinacion Duracion: 3060 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 138 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 16 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 115 milisegundos 
 
 
-Nodo: 22 Funcion: generarFinger Duracion: 6 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 225 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 178 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 284 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 6 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 151 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 19 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 180 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 13 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 217 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 274 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 13 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 245 milisegundos 
 
 
-Nodo: 47 Funcion: generarFinger Duracion: 22 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 187 milisegundos 
 
 
-Nodo: 49 Funcion: generarFinger Duracion: 31 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 431 milisegundos 
 
 
-Nodo: 39 Funcion: addnode Duracion: 115 milisegundos 
+Nodo: 12 Funcion: generarFinger Duracion: 520 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 49 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 353 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 94 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 308 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 18 milisegundos 
+Nodo: 17 Funcion: generarFinger Duracion: 241 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 106 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 183 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 17 Funcion: addnode Duracion: 639 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 125 milisegundos 
+Nodo: 17 Funcion: combinacion Duracion: 22415 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 180 milisegundos 
 
 
-Nodo: 22 Funcion: generarFinger Duracion: 142 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 244 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 134 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 219 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 15 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 552 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 52 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 238 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 161 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 190 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 53 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 297 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 174 milisegundos 
 
 
-Nodo: 39 Funcion: generarFinger Duracion: 13 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 4263 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 176 milisegundos 
 
 
-Nodo: 47 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 142 milisegundos 
 
 
-Nodo: 49 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 192 milisegundos 
 
 
-Nodo: 46 Funcion: addnode Duracion: 22 milisegundos 
+Nodo: 12 Funcion: generarFinger Duracion: 112 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 144 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 22 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 1437 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 47 milisegundos 
+Nodo: 9 Funcion: addnode Duracion: 145 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 9 Funcion: combinacion Duracion: 5733 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 28 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 325 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 57 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 336 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 114 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 169 milisegundos 
 
 
-Nodo: 22 Funcion: generarFinger Duracion: 26 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 72 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 59 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 3113 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 31 milisegundos 
+Nodo: 16 Funcion: addnode Duracion: 46 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 16 Funcion: combinacion Duracion: 6821 milisegundos 
 
 
-Nodo: 33 Funcion: generarFinger Duracion: 94 milisegundos 
+Nodo: 0 Funcion: generarFinger Duracion: 49 milisegundos 
 
 
-Nodo: 34 Funcion: generarFinger Duracion: 160 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 99 milisegundos 
 
 
-Nodo: 36 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 1 Funcion: generarFinger Duracion: 151 milisegundos 
 
 
-Nodo: 39 Funcion: generarFinger Duracion: 16 milisegundos 
+Nodo: 2 Funcion: generarFinger Duracion: 225 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 3 Funcion: generarFinger Duracion: 83 milisegundos 
 
 
-Nodo: 46 Funcion: generarFinger Duracion: 20 milisegundos 
+Nodo: 4 Funcion: generarFinger Duracion: 238 milisegundos 
 
 
-Nodo: 47 Funcion: generarFinger Duracion: 19 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 192 milisegundos 
 
 
-Nodo: 49 Funcion: generarFinger Duracion: 26 milisegundos 
+Nodo: 6 Funcion: generarFinger Duracion: 96 milisegundos 
 
 
-Nodo: 35 Funcion: addnode Duracion: 13 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 42 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 7 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 174 milisegundos 
 
 
-Nodo: 1 Funcion: generarFinger Duracion: 11 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 89 milisegundos 
 
 
-Nodo: 11 Funcion: generarFinger Duracion: 12 milisegundos 
+Nodo: 9 Funcion: generarFinger Duracion: 3068 milisegundos 
 
 
-Nodo: 12 Funcion: generarFinger Duracion: 9 milisegundos 
+Nodo: 10 Funcion: generarFinger Duracion: 144 milisegundos 
 
 
-Nodo: 16 Funcion: generarFinger Duracion: 10 milisegundos 
+Nodo: 12 Funcion: generarFinger Duracion: 250 milisegundos 
 
 
-Nodo: 17 Funcion: generarFinger Duracion: 6 milisegundos 
+Nodo: 13 Funcion: generarFinger Duracion: 48 milisegundos 
 
 
-Nodo: 19 Funcion: generarFinger Duracion: 14 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 101 milisegundos 
 
 
-Nodo: 22 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 16 Funcion: generarFinger Duracion: 142 milisegundos 
 
 
-Nodo: 28 Funcion: generarFinger Duracion: 33 milisegundos 
+Nodo: 17 Funcion: generarFinger Duracion: 1020 milisegundos 
 
 
-Nodo: 29 Funcion: generarFinger Duracion: 8 milisegundos 
+Nodo: 17 Funcion: generarFinger Duracion: 311 milisegundos 
 
 
-Nodo: 30 Funcion: generarFinger Duracion: 8 milisegundos 
-
-
-Nodo: 33 Funcion: generarFinger Duracion: 34 milisegundos 
-
-
-Nodo: 34 Funcion: generarFinger Duracion: 64 milisegundos 
-
-
-Nodo: 35 Funcion: generarFinger Duracion: 40 milisegundos 
-
-
-Nodo: 36 Funcion: generarFinger Duracion: 56 milisegundos 
-
-
-Nodo: 39 Funcion: generarFinger Duracion: 50 milisegundos 
-
-
-Nodo: 46 Funcion: generarFinger Duracion: 29 milisegundos 
-
-
-Nodo: 46 Funcion: generarFinger Duracion: 25 milisegundos 
-
-
-Nodo: 47 Funcion: generarFinger Duracion: 62 milisegundos 
-
-
-Nodo: 49 Funcion: generarFinger Duracion: 108 milisegundos 
-
-
-Nodo: 35 Funcion: search Duracion: 71 milisegundos 
-
-
-Nodo: 35 Funcion: search Duracion: 52 milisegundos 
-
-
-Nodo: 35 Funcion: search Duracion: 44 milisegundos 
-
-
-Nodo: 35 Funcion: search Duracion: 49 milisegundos 
-
-
-Nodo: 35 Funcion: search Duracion: 87 milisegundos 
+Nodo: 18 Funcion: generarFinger Duracion: 302 milisegundos 
 
 ------------------------------------------------------
 
@@ -744,9 +702,11 @@ Resultados Finales
 
 ------------------------------------------------------
 
-Numero de nodos: 55 
+Numero de nodos: 20 
 
-Tiempo en agregar nodos: 1116 milisegundos 
+Tiempo en agregar nodos: 91970 milisegundos 
 
-Tiempo en generar fingers: 1329 milisegundos 
+Tiempo en generar fingers: 6824 milisegundos 
+
+Tiempo en agregar nodos + generar fingers: 152859 milisegundos 
 
